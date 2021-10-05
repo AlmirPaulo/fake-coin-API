@@ -47,5 +47,5 @@ I plan turn it into a node package in the future so we can simply npm install...
 
 ## Releases
 
-### 0.0.1 - ...
+### 0.0.1 - October 5th
 First Release
