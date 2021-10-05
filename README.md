@@ -11,7 +11,9 @@ The idea of fake coin API is to simulate a currency or stock API (in a very poor
 First you start with 1000 fake coins, then the API will set the fake coin rating randomly each time you hit the rating endpoint. So, you can set your bot to hit the API each 5 seconds (for example...) and do your magic! 
 
 ## Install
-<!-- Como colocar um package no npm? -->
+
+By now, you need to git clone, than npm install. 
+I plan turn it into a node package in the future so we can simply npm install...
 
 ## Endpoints
 
